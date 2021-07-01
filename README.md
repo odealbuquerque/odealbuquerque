@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @odealbuquerque or Ollie
 - 👀 I’m interested in web platform technologies - WASM, PWA, WebGPU, and ways to push the limits of the web
 - 🌱 I’m learning how to live on earth
-- 💞️ I’m looking to collaborate on bringing advanced capabilities to the web and making it accessible to all
+- 💞️ I collaborate with companies to bringing advanced capabilities to the web, making the web a thriving place for developers and useful to people
 - 📫 Find me on Twitter @OLIVERDEALBUQU2
 
 <!---
